@@ -14,11 +14,8 @@ I'm a person very curious to know behind scenes every technology and I have been
 
 ### Current Stack: ###
 - Development with Javascript (ES6+, ES2020)
-- TypeScript
-- React JS (Context API, Hooks)
-- React Native
+- React JS (Context API, Hooks, Custom Hooks)
 - Redux (Redux Thunk, React Hook Form)
-- Unity Tests with Jest
 - Control Version Git (Gitflow)
 - CSS 3 (Styled Components)
 
